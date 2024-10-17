@@ -3,7 +3,7 @@ Version:	63708
 Release:	2
 Summary:	Notes at end of document
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pagenote
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pagenote
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pagenote.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pagenote.doc.r%{version}.tar.xz
